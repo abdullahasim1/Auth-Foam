@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+/package.json
+/package-lock.json
+/.hintrc
+
 
 # testing
 /coverage
@@ -24,3 +28,5 @@ yarn-error.log*
 .logo.svg
 .index.css
 .App.css
+reportWebVitals.js
+setupTests.js
